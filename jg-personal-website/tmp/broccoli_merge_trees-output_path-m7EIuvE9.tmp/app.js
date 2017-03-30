@@ -1,1 +1,0 @@
-/Users/jessegoodenough/JS Projects/emberjs-jessegoodenough.com/JGoodenough.github.io/jg-personal-website/app/app.js
